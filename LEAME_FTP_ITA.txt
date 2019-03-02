@@ -1,0 +1,4 @@
+Servidor FTP del ITA
+
+Recuerde que los ficheros almacenados se suponen temporales y se borraran pasados unos dias.
+Mas informacion en http://ftp.ita.es
