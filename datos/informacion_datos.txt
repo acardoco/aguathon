@@ -1,0 +1,11 @@
+time: fecha y hora de la medición (horas exactas, minutos y segundos igual cero).
+ALAGON_NR: Nivel del río Ebro al paso por Alagón. Unidades: metros.
+GRISEN_NR: Nivel del río Jalón al paso por Grisén. Unidades: metros.
+NOVILLAS_NR: Nivel del río Ebro al paso por Novillas. Unidades: metros.
+TAUSTE_NR: Nivel del río Arba al paso por Tauste. Unidades: metros.
+TUDELA_NR: Nivel del río Ebro al paso por Tudela. Unidades: metros.
+ZGZ_NR: Nivel del río Ebro al paso por Zaragoza. Unidades: metros.
+RIESGO: Variable booleana representando si hubo riesgo de inundación en Zaragoza o no. Sin unidades, es un valor lógico: True/False.
+pred_24h: Nivel del río Ebro al paso por Zaragoza 24 horas después del tiempo especificado en la variable time. Unidades: metros.
+pred_48h: Nivel del río Ebro al paso por Zaragoza 48 horas después del tiempo especificado en la variable time. Unidades: metros.
+pred_72h: Nivel del río Ebro al paso por Zaragoza 72 horas después del tiempo especificado en la variable time. Unidades: metros.
